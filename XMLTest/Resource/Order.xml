@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<root name='ipsSosApp'>
+    <input>
+		<imageFiles>
+			<image>F:\00_Code\XmlTest\1.tif</image>
+			<image>F:\00_Code\XmlTest\2.tif</image>
+			<image>F:\00_Code\XmlTest\3.tif</image>
+			<image>F:\00_Code\XmlTest\4.tif</image>
+		</imageFiles>
+        <auxFile>F:\00_Code\XmlTest\1.rpb.aux.xml</auxFile>
+        <gcpFile>F:\00_Code\XmlTest\1.gcp</gcpFile>
+        <imageId>1.0</imageId>
+    </input>
+    <output>
+        <outDir>F:\00_Code\XmlTest</outDir>
+        <outCamFile>F:\00_Code\XmlTest\2.coef</outCamFile>
+    </output>
+</root>
+
+
+

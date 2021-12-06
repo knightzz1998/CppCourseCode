@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcConfig name = "config">
+    <inputfilelist>
+        <inputfile>
+            <imagefile>E:\04_Test\data1\VBZ1_201707202107_001_0001.tif</imagefile>
+            <imagefile>E:\04_Test\data1\VBZ1_201707202107_001_0002.tif</imagefile>
+            <imagefile>E:\04_Test\data1\VBZ1_201707202107_001_0003.tif</imagefile>
+        </inputfile>
+    </inputfilelist>
+	<GeoCalPara>
+		<PanCalPara>
+			<DoCheckGeoCal>1</DoCheckGeoCal>
+			<GeoCalError>1.0</GeoCalError>
+			<DoCheckCcdRel>1</DoCheckCcdRel>
+			<CcdRelError>0.4</CcdRelError>
+			<DoCheckGcpNum>1</DoCheckGcpNum>
+			<GcpNumMin>30</GcpNumMin>
+		</PanCalPara>
+	</GeoCalPara>
+	<FrameParam>
+		<FrameHeader>
+			<Header>26</Header>
+			<Header>207</Header>
+			<Header>252</Header>
+			<Header>29</Header>
+		</FrameHeader>
+	</FrameParam>
+</PcConfig>
